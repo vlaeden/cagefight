@@ -3,6 +3,8 @@ package entity;
 import main.KeyHandler;
 import main.Panel;
 
+import java.awt.*;
+
 public class Player extends Entity {
 
     Panel gp;

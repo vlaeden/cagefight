@@ -71,8 +71,6 @@ public void startGameThread(){
                 e.printStackTrace();
             }
 
-
-
         }
 
     }
